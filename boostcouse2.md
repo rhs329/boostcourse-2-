@@ -44,7 +44,7 @@ estimator.fit(X, [y])
 
 
 ### Overfitting and Underfiiting
-![Overfitting and Underfiiting](test.jpg)
+![Overfitting and Underfiiting](test.jpg) <br>
 그래프 위에는 Overfitting, 아래는 Underfiiting임. <br>
 test 데이터는 어느 정도 가면 안 좋아짐. <br>
 새로운 objectg에는 잘 적용하지 못하는 모습을 보여줌. <br>
