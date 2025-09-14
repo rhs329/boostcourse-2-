@@ -8,7 +8,8 @@
 3. Clusering = 군집화
 
 **1. Supervised (Machine) learning**
-: 정답이 있는 데이터를 맞추는 것. (ex. Classification, Regression)
+: 정답이 있는 데이터를 맞추는 것. <br>
+(ex. Classification, Regression) <br>
 ![Supervised (Machine) learning](Supervised_model.jpg)
 
 <br>
@@ -20,7 +21,8 @@ clf.score(X_train, y_train) <br>
 <br>
 
 **2. Unsupervised (Machine) learning** 
-: 정답이 없는 데이터를 맞추는 것. (ex. Clustering)
+: 정답이 없는 데이터를 맞추는 것. <br>
+(ex. Clustering) <br>
 ![Supervised (Machine) learning](unsupervised_learning.jpg)
 
 pca = PCA() <br>
@@ -29,7 +31,7 @@ X_new = pca.transform(X_test) <br>
 
  
 #### Basic API
-estimator.fit(X, [y[)
+estimator.fit(X, [y]) 
 
 
 |estimator.predict | estimator.transform |
