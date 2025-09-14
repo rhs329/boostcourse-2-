@@ -54,7 +54,7 @@ Overfitting 심하게 하면 새로운 object를 가져왔을 때 제대로 예�
 <br>
 
 ### Random Forests
-![Random forest](random_forest.jpg)
+![Random forest](random_forest.jpg) <br>
 모든 데이터를 다 사용하지 않고 데이터를 샘플링해서 예측함. 
 
 <br>
