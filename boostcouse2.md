@@ -39,7 +39,7 @@ estimator.fit(X, [y])
 
 ---
 
-![cross valuation](cross.jpg)
+![cross valuation](cross.jpg) <br>
 효과적인 파라미터를 찾기 위해서 학습을 시킴.
 
 
