@@ -71,7 +71,7 @@ Overfitting 심하게 하면 새로운 object를 가져왔을 때 제대로 예�
 <br>
 
 ### Scoring Function
-학습을 했다고 가정했을 때 몇 점 점수를 받는지.
+학습을 했다고 가정했을 때 몇 점 점수를 받는지. <br>
 ex. GridSearchCV <br>
-RandomizedSearchCV
-cross_val_score
+RandomizedSearchCV <br>
+cross_val_score <br>
